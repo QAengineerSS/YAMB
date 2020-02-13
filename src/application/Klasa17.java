@@ -6,4 +6,14 @@ public class Klasa17 {
 	{
 		
 	}
+	
+	public void metoda2()
+	{
+		
+	}
+	
+	public void metoda3()
+	{
+		
+	}
 }
