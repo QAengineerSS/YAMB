@@ -6,4 +6,9 @@ public class Klasa9 {
 	{
 		
 	}
+	
+	public void metoda2()
+	{
+		
+	}
 }
