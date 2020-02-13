@@ -16,4 +16,8 @@ public class Klasa2 {
 	{
 		
 	}
+	public void metoda4()
+	{
+		
+	}
 }
