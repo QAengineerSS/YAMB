@@ -29,4 +29,8 @@ public class Klasa50 {
 	{
 		//add qa after merging
 	}
+	public void metoda8()
+	{
+		//add ss - forked qa - branch master
+	}
 }
