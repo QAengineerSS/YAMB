@@ -15,4 +15,9 @@ public class Klasa50 {
 	{
 		
 	}
+	
+	public void metoda5()
+	{
+		//add ss - forked qa
+	}
 }
