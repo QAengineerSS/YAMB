@@ -20,4 +20,9 @@ public class Klasa50 {
 	{
 		//add ss - forked qa
 	}
+	
+	public void metoda6()
+	{
+		//add ss - forked qa - branch dodatak
+	}
 }
