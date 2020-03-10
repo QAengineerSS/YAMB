@@ -14,6 +14,8 @@ public class Klasa65 {
 
 	
 	//komentar qa
+	
+	//add na gitu
 
 
 }
